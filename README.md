@@ -19,3 +19,9 @@ Where:
 
 ## Usage
 Input the principal, rate, and time to calculate the simple interest owed or earned.
+
+## License
+This project is licensed under the Apache License 2.0
+
+## Contributing
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
